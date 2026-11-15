@@ -46,7 +46,7 @@ Open `android/app/src/main/AndroidManifest.xml` and add this line inside `<manif
 flutter build apk --release
 # Output: build/app/outputs/flutter-apk/app-release.apk
 ```
-
+DRIVE LINK TO ACCESS APK https://drive.google.com/file/d/1HyhZhMWIG86P6OhqfKNGuflSchAB9nxk/view?usp=sharing
 ### Run tests
 
 ```bash
